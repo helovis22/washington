@@ -1,0 +1,75 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#900;
+    font-size:36px;
+    background-image: url(mini_dc.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    border-bottom-style: solid;
+    border-bottom-width: medium;
+    border-bottom-color: #009;
+}
+
+    #topo{
+       background-color: aqua;
+        height: 170px;
+        width: 715px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    #menu{
+        height: 40px;
+        width: 715px;
+        background-color:cyan;
+        margin-right: auto;
+        margin-left: auto;
+    }    
+    #menu ul{
+        padding: 0px;
+        margin: 0px;
+        float: left;
+        width: 100%;
+        background-color: #ededed;
+        list-style: none;
+        font-family: tahoma;
+    }
+    #menu ul li{
+        display: inline;
+    }
+    #menu ul li a{
+        background-color: rgb(51, 48, 48);
+        color: cadetblue;
+        text-decoration: none;
+        border-bottom: 3px solid black;
+        padding: 10px 10px;
+        float: left;
+    }
+    #menu ul li a:hover{
+        background-color: #d6d6d6;
+        border-bottom: 3px solid #ea0000;
+    }
+    #conteudo{  
+        height: 400px;
+        width: 715px;
+        background-color:silver;
+        margin-right: auto;
+        margin-left: auto;
+    }     
+    #rodape{
+        height: 30px;
+        width: 715px;
+        background-color:yellowgreen;
+        margin-right: auto;
+        margin-left: auto;
+    }     
+    p{
+        text-align: justify;
+    }
+    h1{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 36px;
+        font-style: italic;
+        color: #006;
+        background-color: cornsilk;
+        text-align: center;
+    }
